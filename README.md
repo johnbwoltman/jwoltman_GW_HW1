@@ -1,1 +1,1 @@
-# jwoltman_GW_HW1
+This is Jack Woltman's homework repository for bootcamp
